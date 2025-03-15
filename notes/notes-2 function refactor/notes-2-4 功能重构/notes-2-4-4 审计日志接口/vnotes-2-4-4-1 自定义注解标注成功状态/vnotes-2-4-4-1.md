@@ -9,7 +9,7 @@ status = result instanceof SuccessResult ? "SUCCESS" : "FAILED"
 - 假设业务方法统一返回 `SuccessResult` 或 `FailureResult`
 - 实际项目中建议使用自定义注解标注成功状态
 
-## --- R1
+--- R1
 
 ### 一、自定义注解设计方案
 
